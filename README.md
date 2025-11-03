@@ -7,13 +7,9 @@
 
 📍 Prague, Czech Republic
 
----
-
 ## Professional Summary
 
 Self-reliant problem solver and permanent learner with 19 years of software development experience. I work well both independently and as part of a team, often becoming the go-to person for tackling challenging technical problems. I value gradual improvement over big rewrites and believe that clean code, automated testing, code reviews, and CI/CD are crucial for high-quality software development. Most importantly, I focus on delivering real value to users and businesses.
-
----
 
 ## Professional Experience
 
@@ -29,8 +25,6 @@ Senior software engineer working on internal startup product development using m
 
 🔗 https://hubexo.com/
 
----
-
 ### Senior Software Engineer
 **Olmero** | Germany (Remote) | April 2021 - June 2024
 
@@ -41,8 +35,6 @@ Transitioned to backend engineering after mobile team restructuring, focusing on
 - Implemented full-stack solutions across multiple technologies and platforms
 
 🔗 https://www.olmero.ch/
-
----
 
 ### Senior Android Developer
 **Olmero** | Germany (On-site) | October 2018 - April 2021
@@ -55,14 +47,10 @@ Developed Android applications for Swiss construction industry leader, focusing 
 
 🔗 https://www.olmero.ch/
 
----
-
 ### Android Developer
 **Freelance** | Czech Republic | March 2018 - October 2018
 
 Provided specialized Android development consulting services to help companies accelerate their mobile software projects and implement best practices.
-
----
 
 ### Software Developer
 **Smarcoms** | Czech Republic | January 2006 - January 2018
@@ -76,7 +64,6 @@ Full-stack development role spanning web, mobile, and backend technologies. Prog
 - Became primary technical problem-solver and resource for development team
 - Delivered multiple Android applications and supporting backend systems for diverse client base
 
----
 
 ## Technical Skills
 
@@ -104,7 +91,6 @@ Full-stack development role spanning web, mobile, and backend technologies. Prog
 **Other Technologies** (Intermediate)
 - Python, Drupal, Cordova, SVN, Kafka
 
----
 
 ## Education
 
@@ -120,15 +106,11 @@ Czech Technical University in Prague, Faculty of Nuclear Sciences and Physical E
 SPŠ strojní a dopravní v Děčíně  
 1999 - 2003
 
----
-
 ## Languages
 
 - **Czech**: Native
 - **English**: Professional
 - **German**: Elementary
-
----
 
 ## Online Profiles
 
