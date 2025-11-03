@@ -2,7 +2,25 @@
 #remote_theme: "jekyll/minima@bf9ef98"
 remote_theme: daattali/beautiful-jekyll@6.0.1 
 title: Josef Adamčík - Resume
+author: Josef Adamčík
 description: 
 markdown: GFM
 minima:
   hide_site_feed_link: true
+navbar-links:
+  Author's home: "https://adamcik.me"
+#####################################
+# --- Footer social media links --- #
+#####################################
+
+# Select the social network links that you want to show in the footer.
+# You can change the order that they show up on the page by changing the order here.
+# Uncomment the links you want to show and add your information to each one.
+social-network-links:
+  email: "josef.adamcik@gmail.com"
+  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  github: josefadamcik
+  linkedin: josefadamcik
+  stackoverflow: "135837/josef-adamcik"
+
+title-on-all-pages: true
