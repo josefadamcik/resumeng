@@ -1,4 +1,3 @@
-# Josef Adamčík
 **Senior Software Engineer**
 
 📧 josef.adamcik@gmail.com  
