@@ -1,5 +1,7 @@
 #theme: jekyll-theme-hacker
-remote_theme: "jekyll/minima@1e8a445"
+remote_theme: "jekyll/minima@c6e74bb"
 title: Josef Adamčík - Resume
 description: 
 markdown: GFM
+minima:
+  hide_site_feed_link: true
