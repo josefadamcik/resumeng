@@ -1,3 +1,9 @@
+---
+layout: page
+title: Resume
+subtitle: My professional resume
+---
+
 **Senior Software Engineer**
 
 📧 josef.adamcik@gmail.com  
