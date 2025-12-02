@@ -100,7 +100,7 @@ Full-stack development role spanning web, mobile, and backend technologies. Rapi
 
 ### Custom Keyboard Design & Build
 
-**SofleKeyboard**, **StanaKeyboard** | **Technical Pursuits** | 🔗 [GitHub Repository Sofle](https://github.com/josefadamcik/SofleKeyboard), [Github Repository Stana](https://github.com/josefadamcik/stanakeyboard)
+**SofleKeyboard**, **StanaKeyboard** | **Technical Pursuits** | 🔗 [GitHub Repository Sofle](https://github.com/josefadamcik/SofleKeyboard), [Github Repository Stana](https://github.com/josefadamcik/stanakeyboard), [Project Website](https://josefadamcik.github.io/SofleKeyboard/)
 
 - Designed and built a **ustomized ergonomic mechanical keyboards** from scratch.   
 - Showcases deep attention to detail, precision engineering, and the ability to execute a complex project involving hardware, electronics, and low-level firmware.
