@@ -40,10 +40,8 @@ Transitioned from mobile to backend engineering, focusing on scalable e-tenderin
 - Played a **critical role** in a multi-year DevOps initiative, successfully migrating the entire company infrastructure from legacy on-premise servers to a high-availability **Google Cloud Platform (GCP)** environment.  
 - Developed core e-tendering products for the construction industry using a modern microservice architecture.    
 - Implemented full-stack solutions across multiple platforms and integrated systems.
-    
 
 🔗 [https://www.olmero.ch/](https://www.olmero.ch/)
-
 
 ---
 
@@ -59,8 +57,7 @@ Developed Android applications for the Swiss construction industry, focusing on 
 
 
 🔗 [https://www.olmero.ch/](https://www.olmero.ch/)
-
-
+'
 ---
 
 ### Android Developer
@@ -86,17 +83,6 @@ Full-stack development role spanning web, mobile, and backend technologies. Rapi
   
 ---
 
-## PERSONAL PROJECTS & TECHNICAL PURSUITS
-
-### Custom Keyboard Design & Build
-
-**SofleKeyboard** | **Technical Pursuits** | 🔗 [GitHub Repository](https://github.com/josefadamcik/SofleKeyboard)
-
-- Designed and built a **ustomized ergonomic mechanical keyboard** from scratch.   
-- Showcases deep attention to detail, precision engineering, and the ability to execute a complex project involving hardware, electronics, and low-level firmware.
-    
----
-
 ## TECHNICAL SKILLS
 
 |Category|Core Expertise|
@@ -108,6 +94,18 @@ Full-stack development role spanning web, mobile, and backend technologies. Rapi
 |**Mobile**|Android, Kotlin, Java|
 |**Web & Other**|HTML, CSS, JavaScript, Python, Git, SCRUM, Kanban|
 
+---
+
+## PERSONAL PROJECTS & TECHNICAL PURSUITS
+
+### Custom Keyboard Design & Build
+
+**SofleKeyboard** | **Technical Pursuits** | 🔗 [GitHub Repository](https://github.com/josefadamcik/SofleKeyboard)
+
+- Designed and built a **ustomized ergonomic mechanical keyboard** from scratch.   
+- Showcases deep attention to detail, precision engineering, and the ability to execute a complex project involving hardware, electronics, and low-level firmware.
+    
+---
 
 ## EDUCATION
 
