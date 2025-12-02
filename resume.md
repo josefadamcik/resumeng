@@ -23,6 +23,8 @@ Senior engineer working on internal startup product development with a modern te
 - Backend feature development utilizing modern **Java/Spring Boot** and **NestJS/TypeScript** stacks.   
 - Assumed **full DevOps ownership**, managing and automating cloud infrastructure (GCP/Kubernetes) to ensure high availability and scalability for the internal product.
 - Contributing to internal startup product architecture and strategic technology decisions.
+- Led the internal initiative to reduce technical debt, focusing on refactoring legacy Java services.
+     
     
 
 🔗 [https://hubexo.com/](https://hubexo.com/)
@@ -54,7 +56,7 @@ Developed Android applications for the Swiss construction industry, focusing on 
 - Built the primary OLMeRo Android application to manage construction workflow and collaboration.
     
 - Delivered features covering defect tracking, plan viewing, and comprehensive project management functionalities.
-    
+
 
 🔗 [https://www.olmero.ch/](https://www.olmero.ch/)
 
@@ -81,8 +83,18 @@ Full-stack development role spanning web, mobile, and backend technologies. Rapi
 - Became the **primary technical problem-solver** and resource for the development team, contributing deep system knowledge.
     
 - Built complete application ecosystems, including APIs, web administration portals, and final mobile applications.
-    
+  
+---
 
+## PERSONAL PROJECTS & TECHNICAL PURSUITS
+
+### Custom Keyboard Design & Build
+
+**SofleKeyboard** | **Technical Pursuits** | 🔗 [GitHub Repository](https://github.com/josefadamcik/SofleKeyboard)
+
+- Designed and built a **ustomized ergonomic mechanical keyboard** from scratch.   
+- Showcases deep attention to detail, precision engineering, and the ability to execute a complex project involving hardware, electronics, and low-level firmware.
+    
 ---
 
 ## TECHNICAL SKILLS
@@ -95,6 +107,7 @@ Full-stack development role spanning web, mobile, and backend technologies. Rapi
 |**Testing & Quality**|JUnit, Mockito, Jest, Espresso, TDD, Automated Testing, Code Review|
 |**Mobile**|Android, Kotlin, Java|
 |**Web & Other**|HTML, CSS, JavaScript, Python, Git, SCRUM, Kanban|
+
 
 ## EDUCATION
 
