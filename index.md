@@ -57,7 +57,7 @@ Developed Android applications for the Swiss construction industry, focusing on 
 
 
 🔗 [https://www.olmero.ch/](https://www.olmero.ch/)
-'
+
 ---
 
 ### Android Developer
