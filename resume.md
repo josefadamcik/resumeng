@@ -2,57 +2,62 @@
 
 **Senior Software Engineer**
 
-📧 josef.adamcik@gmail.com  
-🌐 https://josef-adamcik.cz  
-📍 Prague, Czech Republic
+📧 josef.adamcik@gmail.com  🌐 [https://josef-adamcik.cz](https://josef-adamcik.cz)    📞 Prague, Czech Republic    🔗 [LinkedIn](https://www.linkedin.com/in/josefadamcik/) | [GitHub](https://github.com/josefadamcik)
 
 ---
 
-## Professional Summary
+## PROFESSIONAL SUMMARY
 
-Self-reliant problem solver and permanent learner with 19 years of software development experience. I work well both independently and as part of a team, often becoming the go-to person for tackling challenging technical problems. I value gradual improvement over big rewrites and believe that clean code, automated testing, code reviews, and CI/CD are crucial for high-quality software development. Most importantly, I focus on delivering real value to users and businesses.
+**19-year veteran Senior Software Engineer** specializing in robust **Java/Spring** and modern **TypeScript/NestJS** backend development. Proven ability to architect and lead complex technical initiatives, including **critical cloud infrastructure migration (on-prem to GCP)** and the development of scalable microservice architectures. Deep commitment to software quality, leveraging **DevOps (Kubernetes, Terraform, CI/CD)**, automated testing, and clean code principles to deliver tangible business value and drive gradual, sustainable product improvement.
 
 ---
 
 ## Professional Experience
 
 ### Senior Software Engineer
-**Hubexo (formerly ByggFakta)** | Europe (Remote) | June 2024 - Present
 
-Senior software engineer working on internal startup product development using modern Java/Spring and NestJS/TypeScript technologies with DevOps responsibilities. Collaborating with a distributed team of experts across Europe. Company transformed from ByggFakta to Hubexo in autumn 2024.
+**Hubexo (formerly ByggFakta)** | Europe (Remote) | June 2024 – Present
 
-- Backend development using Java/Spring and NestJS/TypeScript stacks
-- DevOps responsibilities including infrastructure management and automation
-- Contributing to internal startup product development and architecture decisions
-- Collaborating with distributed team of experts across Europe
+Senior engineer working on internal startup product development with a modern tech stack and strong DevOps responsibilities. Collaborates with a distributed team of experts across Europe.
 
-🔗 https://hubexo.com/
+- Backend feature development utilizing modern **Java/Spring Boot** and **NestJS/TypeScript** stacks.   
+- Assumed **full DevOps ownership**, managing and automating cloud infrastructure (GCP/Kubernetes) to ensure high availability and scalability for the internal product.
+- Contributing to internal startup product architecture and strategic technology decisions.
+    
+
+🔗 [https://hubexo.com/](https://hubexo.com/)
 
 ---
 
 ### Senior Software Engineer
-**Olmero** | Germany (Remote) | April 2021 - June 2024
 
-Transitioned to backend engineering after mobile team restructuring, focusing on e-tendering solutions with microservice architecture. Key contributor to critical infrastructure migration from on-premise to Google Cloud platform.
+**Olmero** | Germany (Remote) | April 2021 – June 2024
 
-- Developed e-tendering product for construction industry using microservice architecture
-- Key contributor to major DevOps initiative migrating entire company infrastructure from on-premise to Google Cloud
-- Implemented full-stack solutions across multiple technologies and platforms
+Transitioned from mobile to backend engineering, focusing on scalable e-tendering solutions within a microservice architecture. Key driver in the company-wide cloud transformation.
 
-🔗 https://www.olmero.ch/
+- Played a **critical role** in a multi-year DevOps initiative, successfully migrating the entire company infrastructure from legacy on-premise servers to a high-availability **Google Cloud Platform (GCP)** environment.  
+- Developed core e-tendering products for the construction industry using a modern microservice architecture.    
+- Implemented full-stack solutions across multiple platforms and integrated systems.
+    
+
+🔗 [https://www.olmero.ch/](https://www.olmero.ch/)
+
 
 ---
 
 ### Senior Android Developer
-**Olmero** | Germany (On-site) | October 2018 - April 2021
 
-Developed Android applications for Swiss construction industry leader, focusing on mobile solutions for construction site management and contractor collaboration. 
+**Olmero** | Germany (On-site) | October 2018 – April 2021
 
-- Built OLMeRo Android application for construction industry workflow management
-- Developed features for construction process management and contractor collaboration
-- Built complete project management platform including plans, defect tracking, and task management
+Developed Android applications for the Swiss construction industry, focusing on solutions for site management and contractor collaboration.
 
-🔗 https://www.olmero.ch/
+- Built the primary OLMeRo Android application to manage construction workflow and collaboration.
+    
+- Delivered features covering defect tracking, plan viewing, and comprehensive project management functionalities.
+    
+
+🔗 [https://www.olmero.ch/](https://www.olmero.ch/)
+
 
 ---
 
@@ -64,73 +69,44 @@ Provided specialized Android development consulting services to help companies a
 ---
 
 ### Software Developer
-**Smarcoms** | Czech Republic | January 2006 - January 2018
 
-Full-stack development role spanning web, mobile, and backend technologies. Progressed from PHP/Symfony web development to Java enterprise applications and native Android development. Key contributor to major projects including sports booking platform, retail and TV mobile applications.
+**Smarcoms** | Czech Republic | January 2006 – January 2018
 
-- Progressed from student developer to senior technical contributor over 12-year tenure
-- Architected and developed Bizzy booking system for sports centres using Java/Spring/Hibernate stack
-- Key contributor to backend and mobile development for Shopin retail guide, transitioning from hybrid to native Android
-- Built complete application ecosystems including APIs, web administration, and mobile applications
-- Became primary technical problem-solver and resource for development team
-- Delivered multiple Android applications and supporting backend systems for diverse client base
+Full-stack development role spanning web, mobile, and backend technologies. Rapidly progressed from student developer to a senior technical contributor over a 12-year tenure.
 
----
-
-## Technical Skills
-
-**Mobile Development** (Expert)
-- Android, Kotlin, Java
-
-**Backend Development** (Expert)
-- Java, Spring, Spring Boot, Hibernate, NestJS, Node.js, TypeScript, Node.js, PHP, Symfony, Firebase, REST, GraphQL
-
-**Database Technologies** (Advanced)
-- MySQL, PostgreSQL, MongoDB, Firebase Firestore
-
-**Web Technologies** (Intermediate)
-- JavaScript, HTML, CSS, JSF
-
-**DevOps & Cloud** (Advanced)
-- Kubernetes, HELM, Docker, AWS, Google Cloud (GCS), Terraform, Helm, Git, CI/CD, Github Actions, Linux, Prometheus
-
-**Testing & QA** (Advanced)
-- JUnit, Mockito, Jest, Espresso, TDD, Automated Testing
-
-**Methodologies** (Advanced)
-- SCRUM, Kanban, Agile
-
-**Other Technologies** (Intermediate)
-- Python, Drupal, Cordova, SVN, Kafka
+- Architected and developed the **Bizzy enterprise booking system** (Java/Spring/Hibernate) used by numerous sports centers.
+    
+- Led backend and mobile development for the Shopin retail guide, transitioning the mobile platform from hybrid to native Android.
+    
+- Became the **primary technical problem-solver** and resource for the development team, contributing deep system knowledge.
+    
+- Built complete application ecosystems, including APIs, web administration portals, and final mobile applications.
+    
 
 ---
 
-## Education
+## TECHNICAL SKILLS
 
-**Master's Degree in Software Engineering in Economics**  
-Czech Technical University in Prague, Faculty of Nuclear Sciences and Physical Engineering  
-2006 - 2010
+|Category|Core Expertise|
+|---|---|
+|**Backend & Enterprise**|Java, Spring Boot, Spring, Hibernate, NestJS, Node.js, TypeScript, REST, GraphQL, PHP, Symfony|
+|**Cloud & DevOps**|**Google Cloud Platform (GCP)**, **Kubernetes**, **Docker**, **Terraform**, Helm, CI/CD (GitHub Actions), AWS, Linux, Prometheus|
+|**Databases & APIs**|MySQL, PostgreSQL, MongoDB, Firebase Firestore|
+|**Testing & Quality**|JUnit, Mockito, Jest, Espresso, TDD, Automated Testing, Code Review|
+|**Mobile**|Android, Kotlin, Java|
+|**Web & Other**|HTML, CSS, JavaScript, Python, Git, SCRUM, Kanban|
 
-**Bachelor's Degree in Software Engineering in Economics**  
-Czech Technical University in Prague, Faculty of Nuclear Sciences and Physical Engineering  
-2003 - 2006
+## EDUCATION
 
-**High School - Electronics, Computer Technology**  
-SPŠ strojní a dopravní v Děčíně  
-1999 - 2003
+**Master's Degree in Software Engineering in Economics**    Czech Technical University in Prague, Faculty of Nuclear Sciences and Physical Engineering    _2006 – 2010_
+
+**Bachelor's Degree in Software Engineering in Economics**    Czech Technical University in Prague, Faculty of Nuclear Sciences and Physical Engineering    _2003 – 2006_
 
 ---
 
-## Languages
+## LANGUAGES
 
-- **Czech**: Native
-- **English**: Professional
+- **Czech**: Native   
+- **English**: Professional Working Proficiency   
 - **German**: Elementary
-
----
-
-## Online Profiles
-
-- **LinkedIn**: https://www.linkedin.com/in/josefadamcik/
-- **GitHub**: https://github.com/josefadamcik
-- **Stack Overflow**: https://stackoverflow.com/users/135837/josef-adamcik
+    
