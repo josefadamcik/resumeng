@@ -12,7 +12,7 @@
 
 ---
 
-## Professional Experience
+## PROFESSIONAL EXPERIENCE
 
 ### Senior Software Engineer
 
