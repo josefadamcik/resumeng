@@ -8,7 +8,7 @@
 
 ## PROFESSIONAL SUMMARY
 
-**19-year veteran Senior Software Engineer** specializing in robust **Java/Spring** and modern **TypeScript/NestJS** backend development. Proven ability to architect and lead complex technical initiatives, including **critical cloud infrastructure migration (on-prem to GCP)** and the development of scalable microservice architectures. Deep commitment to software quality, leveraging **DevOps (Kubernetes, Terraform, CI/CD)**, automated testing, and clean code principles to deliver tangible business value and drive gradual, sustainable product improvement.
+19-year veteran Senior Software Engineer specializing in robust Java/Spring and modern TypeScript/NestJS backend development. Proven ability to lead complex architecture and cloud migration initiatives while driving accelerated development velocity through the strategic adoption of modern AI-assisted coding tools. Deep commitment to scalable solutions, leveraging DevOps (Kubernetes, Terraform, CI/CD) and strict quality standards to ensure high-velocity delivery doesn't compromise code health.
 
 ---
 
