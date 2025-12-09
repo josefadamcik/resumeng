@@ -90,7 +90,7 @@ Full-stack development role spanning web, mobile, and backend technologies. Rapi
 |**Backend & Enterprise**|Java, Spring Boot, Spring, Hibernate, NestJS, Node.js, TypeScript, REST, GraphQL, PHP, Symfony|
 |**Cloud & DevOps**|**Google Cloud Platform (GCP)**, **Kubernetes**, **Docker**, **Terraform**, Helm, CI/CD (GitHub Actions), AWS, Linux, Prometheus|
 |**Databases & APIs**|MySQL, PostgreSQL, MongoDB, Firebase Firestore|
-|**Testing & Quality**|JUnit, Mockito, Jest, Espresso, TDD, Automated Testing, Code Review|
+|**Quality & Productivity**|JUnit, Mockito, Jest, Espresso, TDD, Automated Testing, Code Review, AI-Assisted Coding (e.g., Cursor, Claude Code)|
 |**Mobile**|Android, Kotlin, Java|
 |**Web & Other**|HTML, CSS, JavaScript, Python, Git, SCRUM, Kanban|
 
