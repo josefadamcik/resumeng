@@ -24,6 +24,7 @@ Senior engineer working on internal startup product development with a modern te
 - Assumed **full DevOps ownership**, managing and automating cloud infrastructure (GCP/Kubernetes) to ensure high availability and scalability for the internal product.
 - Contributing to internal startup product architecture and strategic technology decisions.
 - Led the internal initiative to reduce technical debt, focusing on refactoring legacy Java services.
+- Drove accelerated problem-solving and proof-of-concept (PoC) delivery by leveraging AI-assisted coding tools (e.g., Cursor), increasing the ability to provide quick and tested solutions to technical challenges.
      
     
 
