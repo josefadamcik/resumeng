@@ -21,10 +21,10 @@
 Senior engineer working on internal startup product development with a modern tech stack and strong DevOps responsibilities. Collaborates with a distributed team of experts across Europe.
 
 - Backend feature development utilizing modern **Java/Spring Boot** and **NestJS/TypeScript** stacks.   
-- Assumed **full DevOps ownership**, managing and automating cloud infrastructure (GCP/Kubernetes) to ensure high availability and scalability for the internal product.
+- Assumed **DevOps ownership**, managing and automating cloud infrastructure (**GCP/Kubernetes**) to ensure high availability and scalability for the internal product.
 - Contributing to internal startup product architecture and strategic technology decisions.
 - Led the internal initiative to reduce technical debt, focusing on refactoring legacy Java services.
-- Drove accelerated problem-solving and proof-of-concept (PoC) delivery by leveraging AI-assisted coding tools (e.g., Cursor), increasing the ability to provide quick and tested solutions to technical challenges.
+- Drove accelerated problem-solving and proof-of-concept (PoC) delivery by leveraging **AI-assisted coding tools** (e.g., Cursor), increasing the ability to provide quick and tested solutions to technical challenges.
      
     
 
@@ -38,7 +38,7 @@ Senior engineer working on internal startup product development with a modern te
 
 Transitioned from mobile to backend engineering, focusing on scalable e-tendering solutions within a microservice architecture. Key driver in the company-wide cloud transformation.
 
-- Played a **critical role** in a multi-year DevOps initiative, successfully migrating the entire company infrastructure from legacy on-premise servers to a high-availability **Google Cloud Platform (GCP)** environment.  
+- Played a critical role in a multi-year **DevOps** initiative, successfully migrating the entire company infrastructure from legacy on-premise servers to a high-availability **Google Cloud Platform (GCP)** environment.  
 - Developed core e-tendering products for the construction industry using a modern microservice architecture.    
 - Implemented full-stack solutions across multiple platforms and integrated systems.
 
@@ -72,9 +72,9 @@ Provided specialized Android development consulting services to help companies a
 
 **Smarcoms** | Czech Republic | January 2006 – January 2018
 
-Full-stack development role spanning web, mobile, and backend technologies. Rapidly progressed from student developer to a senior technical contributor over a 12-year tenure.
+Full-stack development role spanning web, mobile, and backend technologies. Progressed from student developer to a senior technical contributor over a 12-year tenure.
 
-- Architected and developed the **Bizzy enterprise booking system** (Java/Spring/Hibernate) used by numerous sports centers.
+- Architected and developed the Bizzy enterprise booking system (Java/Spring/Hibernate) used by numerous sports centers.
     
 - Led backend and mobile development for the Shopin retail guide, transitioning the mobile platform from hybrid to native Android.
     
