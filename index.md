@@ -2,7 +2,7 @@
 
 **Senior Software Engineer**
 
-📧 josef@adamcik.me  🌐 [https://josef-adamcik.cz](https://josef-adamcik.cz)    📞 Prague, Czech Republic    🔗 [LinkedIn](https://www.linkedin.com/in/josefadamcik/) | [GitHub](https://github.com/josefadamcik)
+📧 contact@adamcik.me  🌐 [https://josef-adamcik.cz](https://josef-adamcik.cz)    📞 Prague, Czech Republic    🔗 [LinkedIn](https://www.linkedin.com/in/josefadamcik/) | [GitHub](https://github.com/josefadamcik)
 
 ---
 
